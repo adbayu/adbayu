@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andi Bayu Hanggoro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adbayu&label=Profile%20views&color=0e75b6&style=flat" alt="adbayu" /> </p>
 
-- 🌱 I’m currently learning **Laravel , Dart**
+- 🌱 I’m currently learning *JavaScript* 
 
 - 📫 How to reach me **andibayuhanggoro28@gmail.com**
 
